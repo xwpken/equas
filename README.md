@@ -1,1 +1,1 @@
-# dequas
+# equas
